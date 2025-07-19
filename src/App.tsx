@@ -10,8 +10,8 @@ function App() {
           <div className="flex justify-center items-center h-16">
             <div className="flex items-center">
               <img 
-                src="/emdad-logo.svg" 
-                alt="EMDAD Logo" 
+                src="/emdad-logo.jpeg" 
+                alt="EMDAD - Integrated Media & PR Company" 
                 className="h-10 w-auto"
               />
             </div>
@@ -45,8 +45,8 @@ function App() {
               <div className="bg-black rounded-2xl p-8 shadow-2xl">
                 <div className="bg-white rounded-xl p-6 text-center">
                   <img 
-                    src="/emdad-logo.svg" 
-                    alt="EMDAD Logo" 
+                    src="/emdad-logo.jpeg" 
+                    alt="EMDAD - Integrated Media & PR Company" 
                     className="h-24 w-auto mx-auto mb-4"
                   />
                   <div className="text-lg text-gray-600">Media & PR Company</div>
@@ -221,9 +221,9 @@ function App() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
               <img 
-                src="/emdad-logo.svg" 
-                alt="EMDAD Logo" 
-                className="h-8 w-auto mb-4 brightness-0 invert"
+                src="/emdad-logo.jpeg" 
+                alt="EMDAD - Integrated Media & PR Company" 
+                className="h-8 w-auto mb-4"
               />
               <p className="text-gray-400 leading-relaxed max-w-md">
                 EMDAD - Media & PR company based in Riyadh, Saudi Arabia. 
