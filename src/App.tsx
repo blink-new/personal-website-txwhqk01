@@ -10,7 +10,7 @@ function App() {
           <div className="flex justify-center items-center h-16">
             <div className="flex items-center">
               <img 
-                src="/emdad-logo.jpg" 
+                src="/emdad-logo.svg" 
                 alt="EMDAD Logo" 
                 className="h-10 w-auto"
               />
@@ -45,7 +45,7 @@ function App() {
               <div className="bg-black rounded-2xl p-8 shadow-2xl">
                 <div className="bg-white rounded-xl p-6 text-center">
                   <img 
-                    src="/emdad-logo.jpg" 
+                    src="/emdad-logo.svg" 
                     alt="EMDAD Logo" 
                     className="h-24 w-auto mx-auto mb-4"
                   />
@@ -221,7 +221,7 @@ function App() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
               <img 
-                src="/emdad-logo.jpg" 
+                src="/emdad-logo.svg" 
                 alt="EMDAD Logo" 
                 className="h-8 w-auto mb-4 brightness-0 invert"
               />
